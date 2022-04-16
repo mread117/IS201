@@ -1,0 +1,40 @@
+.center {
+    text-align: center;
+}
+
+.external {
+    text-decoration: none;
+    color: #076b63;
+}
+
+.note {
+    font-size: 10pt;
+    color: #929292;
+}
+
+h5 {
+    font-weight: normal;
+    font-style: italic;
+}
+
+.mini-menu {
+    text-decoration: none;
+}
+
+img {
+    padding: 15pt;
+}
+
+.secret {
+    text-decoration: none;
+    color: #ecebeb;
+}
+
+.italicize {
+    font-style: italic;
+}
+
+h3 {
+    font-style: italic;
+    color: #777777;
+}
